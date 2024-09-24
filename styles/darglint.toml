@@ -1,0 +1,3 @@
+["setup.cfg".flake8]
+docstring_style = "sphinx"
+strictness = "long"

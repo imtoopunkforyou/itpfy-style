@@ -1,0 +1,14 @@
+["setup.cfg".flake8]
+format = "wemake"
+show-source = false
+statistics = false
+
+max-line-length = 120
+max-doc-length = 120
+max_complexity = 6
+
+inline-quotes = "single"
+multiline-quotes = "double"
+docstring-quotes = "double"
+
+ignore = "D100, D104, D401, D107, W503"
