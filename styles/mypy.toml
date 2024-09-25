@@ -16,7 +16,7 @@ no_implicit_optional = true
 
 namespace_packages = true
 
-pretty = true
+pretty = false
 
 show_error_codes = true
 show_error_context = true
