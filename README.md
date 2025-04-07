@@ -1,10 +1,5 @@
 # itpfy-style (づ ◕‿◕ )づ
 
-## ⚠️ Attention
-Is deprecated.
-For informational purposes only.
-
-
 I use [nitpick](https://wemake-python-styleguide.readthedocs.io/en/latest/pages/usage/integrations/nitpick.html) for sharing my python code style.
 
 - Package manager: [poetry](https://github.com/python-poetry/poetry)
