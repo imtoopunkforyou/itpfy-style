@@ -12,5 +12,3 @@ multiline-quotes = "double"
 docstring-quotes = "double"
 
 ignore = "D100, D104, D401, D107, W503"
-
-exclude = ".git, __pycache__"
