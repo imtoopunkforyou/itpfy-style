@@ -6,5 +6,6 @@ include = [
     "flake8.toml",
     "isort.toml",
     "darglint.toml",
-    'mypy.toml',
+    "mypy.toml",
+    "pytest.toml",
 ]
