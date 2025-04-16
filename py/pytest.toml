@@ -1,3 +1,2 @@
-["setup.cfg".tool.pytest]
-testpaths = "tests"
+["tests/pytest.ini".pytest]
 python_files = "test_*.py"
