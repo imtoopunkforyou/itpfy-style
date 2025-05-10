@@ -10,12 +10,20 @@ I use [nitpick](https://wemake-python-styleguide.readthedocs.io/en/latest/pages/
 - Docstring linter: [darglint](https://github.com/terrencepreilly/darglint)
 
 ## Usage
-1. `poetry add --group lint wemake-python-styleguide mypy darglint`
-2. `poetry add --group dev nitpick ipython`
-3. Add link to `pyproject.toml`:
+```bash
+poetry add --group lint wemake-python-styleguide mypy darglint`
+```
+```bash
+poetry add --group dev nitpick ipython
+```
+Add link to `pyproject.toml`:
 ```code
 [tool.nitpick]
 style = "https://raw.githubusercontent.com/imtoopunkforyou/itpfy-style/refs/heads/main/py/imtoopunkforyou.toml"
 ```
-4. `nitpick fix`
-5. `flake8 ./ && mypy ./ --no-pretty`
+```bash
+nitpick fix
+```
+```bash
+flake8 ./ && mypy ./ --no-pretty
+```
