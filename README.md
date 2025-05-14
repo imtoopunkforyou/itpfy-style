@@ -11,7 +11,7 @@ I use [nitpick](https://wemake-python-styleguide.readthedocs.io/en/latest/pages/
 
 ## Usage
 ```bash
-poetry add --group lint wemake-python-styleguide mypy darglint`
+poetry add --group lint wemake-python-styleguide mypy darglint
 ```
 ```bash
 poetry add --group dev nitpick ipython
